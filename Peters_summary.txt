@@ -1,0 +1,19 @@
+Homework 7 Part 3
+Carli Peters
+12 November 2020
+
+Main topics of chapter 40: Discrete Systems:
+1. Discrete time dynamical systems 
+2. Fixed Point iteration
+3. Cobweb plot
+4. Period 3 Cycles 
+5. Logistic maps 
+6. Bifurication
+
+Five Questions:
+1. For fixed point iteration problems, will there always be a given value for alpha? If not, how do we find that value?
+2. I see multiple patterns in Figure 40.3 for the iterations on f(n) = n - n^2 + 2. But how are they picking the 3 vallues for the period cycle by looking at the graph?
+3. In Sarkovoskii's theorem, what does the sign that looks like a less than sign combined with an arrow mean?
+4. What does "least period k" mean?
+5. When determining if the fixed point iteration is guarenteed to converge, where are the valuse of a and x coming from in teh quations used in the textbook?
+
