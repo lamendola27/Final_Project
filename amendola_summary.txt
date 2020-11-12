@@ -1,0 +1,18 @@
+Homework 7 Part III
+Lindsay Amendola
+13 November 2020
+
+
+1. Skim Chapter 40: Discrete Systems
+2. Main Topics of Chapter:
+	a) Fixed point integration
+	b) Cobweb plots
+	c) Period 3 cycle
+	d) Logistic map
+	e) Bifurcation
+3. 5 Questions about chapter:
+	1) Why does the system that includes sqrt(2) end up converging to a pattern instead?
+	2) Why do more fixed points appear once a is passed 3?
+	3) Are the amount of curves for bifurcation continuously increasing as a gets bigger or do they stop once a reaches a certain number?
+	4) Would the intersecting of the curves y=x and y=f(x) on the cobweb plot be considered the converging point?
+	5) Why is chaos so important in dynamical systems?
