@@ -11,7 +11,7 @@ def cobweb(f, x0, n, xmin, xmax, ymin, ymax):
 		xold = x 
 		x = xnew
 		ynext = f(x)
-		X.append(xold)
+		X.append(xold, x, x)
 		X.append(x) 
 		X.append(x)
 		Y.append(xnew) 
@@ -30,3 +30,7 @@ def cobweb(f, x0, n, xmin, xmax, ymin, ymax):
 	plt.show()
 
 print(cobweb(np.cos, 1.0, 200, 0, 1.5, 0, 1))
+
+
+### exercise 6 
+	plt.plot(x, f(x))
