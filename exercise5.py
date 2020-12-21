@@ -25,6 +25,8 @@ def cobweb(f, x0, n, xmin, xmax, ymin, ymax):
 	plt.plot(X, Y, label='cobweb')
 	plt.plot(i, i, label='y=x')
 	plt.plot(k, y, label='f(x)')
+	plt.xlabel('x')
+	plt.ylabel('y')
 	plt.ylim([0, ymax])
 	plt.legend()
 	plt.show()
